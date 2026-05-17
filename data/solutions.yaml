@@ -844,6 +844,17 @@ solutions:
       - edge
     stars: 1600
     production_ready: true
+  - name: koob OS
+    category: KubernetesOS
+    url: https://github.com/koob-foo/koob-os
+    description: Minimal, immutable Kubernetes OS built from scratch with a custom
+      Go-based init system, UKI, and UEFI Secure Boot support
+    license: Apache 2.0
+    open_source: true
+    tags:
+      - immutable
+      - lightweight
+      - secure
   - name: RKE
     category: KubernetesOS
     url: https://github.com/rancher/rke
