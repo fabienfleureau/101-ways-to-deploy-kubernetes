@@ -200,6 +200,30 @@ solutions.forEach((s, i) => {
   }
 });
 
+// ---- Sort order check ----
+
+for (let i = 1; i < solutions.length; i++) {
+  const prev = solutions[i - 1];
+  const curr = solutions[i];
+  const catCmp = (prev.category ?? '').localeCompare(curr.category ?? '', 'en', {
+    sensitivity: 'base',
+  });
+  if (catCmp > 0) {
+    errors.push(
+      `  [${i}] "${curr.name}": out of order — category "${curr.category}" must come before "${prev.category}"`,
+    );
+  } else if (catCmp === 0) {
+    const nameCmp = (prev.name ?? '').localeCompare(curr.name ?? '', 'en', {
+      sensitivity: 'base',
+    });
+    if (nameCmp > 0) {
+      errors.push(
+        `  [${i}] "${curr.name}": out of order — name "${curr.name}" must come before "${prev.name}" within category "${curr.category}"`,
+      );
+    }
+  }
+}
+
 // ---- Report ----
 
 console.log(`Validated ${solutions.length} solutions.`);
