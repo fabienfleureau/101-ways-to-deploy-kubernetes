@@ -5,13 +5,11 @@ solutions:
     icon_url: https://avatars.githubusercontent.com/u/53057619?s=200&v=4
     icon_background_color: light
     publisher: Canonical
-    description: Kubernetes distribution packaged as a snap for easy installation on
-      Ubuntu
+    description: Kubernetes distribution packaged as a snap for easy installation on Ubuntu
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -50,8 +48,7 @@ solutions:
     based_on:
       - Openshift / OKD
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -70,13 +67,11 @@ solutions:
     url: https://github.com/aceeric/desktop-kubernetes
     icon_url: https://github.com/aceeric/desktop-kubernetes/raw/main/resources/desktop-kubernetes-no-text.jpg
     icon_background_color: light
-    description: Automated tool for deploying production-like Kubernetes clusters on
-      desktop VMs
+    description: Automated tool for deploying production-like Kubernetes clusters on desktop VMs
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -97,8 +92,7 @@ solutions:
       - kubeadm
       - kind
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -117,16 +111,14 @@ solutions:
     url: https://github.com/k3d-io/k3d
     icon_url: https://raw.githubusercontent.com/k3d-io/k3d/main/docs/static/img/k3d_logo_black_blue.svg
     publisher: Rancher
-    description: Lightweight Kubernetes clusters in Docker for local development and
-      testing
+    description: Lightweight Kubernetes clusters in Docker for local development and testing
     license: Apache 2.0
     open_source: true
     based_on:
       - k3s
     stars: 6200
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -143,16 +135,14 @@ solutions:
     category: Desktop
     url: https://github.com/kubernetes-sigs/kind
     icon_url: https://raw.githubusercontent.com/kubernetes-sigs/kind/main/logo/logo.png
-    description: Kubernetes in Docker - tool for running local Kubernetes clusters using
-      Docker containers
+    description: Kubernetes in Docker - tool for running local Kubernetes clusters using Docker containers
     license: Apache 2.0
     open_source: true
     based_on:
       - kubeadm
     stars: 15000
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -178,8 +168,7 @@ solutions:
       - k0s
     abandoned: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -202,8 +191,7 @@ solutions:
       - k3s
       - rke2
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -222,13 +210,11 @@ solutions:
     url: https://github.com/canonical/microk8s
     icon_url: https://ubuntu.com/wp-content/uploads/305a/microk8s-sticker.png
     publisher: Canonical
-    description: Low-ops, minimal production Kubernetes for clusters, workstations,
-      edge and IoT
+    description: Low-ops, minimal production Kubernetes for clusters, workstations, edge and IoT
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -257,8 +243,7 @@ solutions:
       - kubeadm
     stars: 31500
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -314,8 +299,7 @@ solutions:
     url: https://github.com/oracle-cne/ocne
     icon_url: https://avatars.githubusercontent.com/u/179813183?s=200&v=4
     publisher: Oracle
-    description: Integrated operating environment for developing cloud-native applications
-      with Kubernetes
+    description: Integrated operating environment for developing cloud-native applications with Kubernetes
     license: Apache 2.0
     open_source: true
     tags:
@@ -325,14 +309,14 @@ solutions:
   - name: Orbstack
     category: Desktop
     url: https://orbstack.dev/
-    icon_url: https://camo.githubusercontent.com/d20582f77f0d485f7ab60b8e5c3116591e0abae14ad12ca91fe8f9d23ca254ff/68747470733a2f2f6f7262737461636b2e6465762f696d672f69636f6e3235362e706e67
+    icon_url: >-
+      https://camo.githubusercontent.com/d20582f77f0d485f7ab60b8e5c3116591e0abae14ad12ca91fe8f9d23ca254ff/68747470733a2f2f6f7262737461636b2e6465762f696d672f69636f6e3235362e706e67
     publisher: Orbital Stack
     description: Fast, lightweight container runtime and Kubernetes for macOS
     license: Proprietary
     open_source: false
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -351,8 +335,7 @@ solutions:
     url: https://github.com/podman-desktop/podman-desktop
     icon_url: https://avatars.githubusercontent.com/u/129859460?s=200&v=4
     publisher: Podman Desktop
-    description: Container and Kubernetes management tool with desktop interface for
-      Podman
+    description: Container and Kubernetes management tool with desktop interface for Podman
     license: Apache 2.0
     open_source: true
     based_on:
@@ -381,8 +364,7 @@ solutions:
       - LimaVM
       - k3s
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -443,8 +425,7 @@ solutions:
     based_on:
       - kubeadm
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -456,20 +437,19 @@ solutions:
     category: InfraAsCode
     url: https://github.com/crossplane/crossplane
     icon_url: https://avatars.githubusercontent.com/u/45158470?s=200&v=4
-    description: Universal control plane for cloud infrastructure and services via Kubernetes
-      API
+    description: Universal control plane for cloud infrastructure and services via Kubernetes API
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
         description: Chapter 37 (Crossplane)
       - title: Step-by-step guide to working with Crossplane and Kubernetes
         language: en
-        url: https://www.techtarget.com/searchitoperations/tutorial/Step-by-step-guide-to-working-with-Crossplane-and-Kubernetes
+        url: >-
+          https://www.techtarget.com/searchitoperations/tutorial/Step-by-step-guide-to-working-with-Crossplane-and-Kubernetes
         type: tutorial
     tags:
       - automation
@@ -534,8 +514,7 @@ solutions:
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -563,8 +542,7 @@ solutions:
     based_on:
       - kubeadm
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -598,8 +576,7 @@ solutions:
     license: MPL 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -622,13 +599,11 @@ solutions:
     url: https://github.com/pulumi/pulumi
     icon_url: https://www.pulumi.com/logos/brand/avatar-on-white.svg
     publisher: Pulumi Services
-    description: Infrastructure as code platform with Kubernetes support across multiple
-      clouds
+    description: Infrastructure as code platform with Kubernetes support across multiple clouds
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -651,8 +626,7 @@ solutions:
     url: https://forge.puppet.com/modules/puppetlabs/kubernetes/readme
     icon_url: https://gravatar.com/avatar/fdd009b7c1ec96e088b389f773e87aec.png?r=pg&s=75&d=404
     publisher: Perforce Software
-    description: Configuration management tool with Kubernetes cluster provisioning
-      capabilities
+    description: Configuration management tool with Kubernetes cluster provisioning capabilities
     license: Apache 2.0
     open_source: true
     based_on:
@@ -678,8 +652,7 @@ solutions:
     license: BUSL 1.1
     open_source: false
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -703,8 +676,7 @@ solutions:
     based_on:
       - Terraform / OpenTofu
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -726,8 +698,7 @@ solutions:
     based_on:
       - k3s
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -757,8 +728,7 @@ solutions:
       - k3s
       - k0s
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -785,8 +755,7 @@ solutions:
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -812,8 +781,7 @@ solutions:
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -850,8 +818,7 @@ solutions:
     icon_url: https://rke.docs.rancher.com/img/logo-horizontal-rke.svg
     icon_background_color: light
     publisher: Rancher
-    description: CNCF-certified Kubernetes distribution that runs entirely within Docker
-      containers
+    description: CNCF-certified Kubernetes distribution that runs entirely within Docker containers
     license: Apache 2.0
     open_source: true
     abandoned: true
@@ -871,14 +838,14 @@ solutions:
   - name: Talos Linux
     category: KubernetesOS
     url: https://github.com/siderolabs/talos
-    icon_url: https://raw.githubusercontent.com/zwindler/101-ways-to-deploy-kubernetes/refs/heads/main/public/logos/talos-logo.svg
+    icon_url: >-
+      https://raw.githubusercontent.com/zwindler/101-ways-to-deploy-kubernetes/refs/heads/main/public/logos/talos-logo.svg
     publisher: SideroLabs
     description: Secure, immutable, and minimal Linux OS designed for Kubernetes
     license: MPL 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -947,8 +914,7 @@ solutions:
       - k3s
       - Talos Linux
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -975,7 +941,8 @@ solutions:
   - name: CoreWeave Kubernetes Service (CKS)
     category: Managed
     url: https://www.coreweave.com/products/coreweave-kubernetes-service
-    icon_url: https://raw.githubusercontent.com/zwindler/101-ways-to-deploy-kubernetes/refs/heads/main/public/logos/coreweave-logo.svg
+    icon_url: >-
+      https://raw.githubusercontent.com/zwindler/101-ways-to-deploy-kubernetes/refs/heads/main/public/logos/coreweave-logo.svg
     icon_background_color: light
     publisher: CoreWeave
     description: GPU-accelerated managed Kubernetes service
@@ -1000,18 +967,6 @@ solutions:
       - cloud
       - managed
     production_ready: true
-  - name: Elastx Private Kubernetes
-    category: Managed
-    url: https://elastx.se/en/kubernetes/
-    icon_url: https://elastx.se/assets/logo-elastx__5b56d89da5da2cefc0037aba53644102.png
-    icon_background_color: dark
-    publisher: Elastx
-    description: Private managed Kubernetes service on Elastx cloud
-    license: Cloud
-    tags:
-      - cloud
-      - managed
-    production_ready: true
   - name: EKS
     category: Managed
     url: https://aws.amazon.com/fr/eks/
@@ -1020,12 +975,23 @@ solutions:
     description: Managed Kubernetes service on Amazon Web Services
     license: Cloud
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
         description: Chapter 18 (EKS)
+    tags:
+      - cloud
+      - managed
+    production_ready: true
+  - name: Elastx Private Kubernetes
+    category: Managed
+    url: https://elastx.se/en/kubernetes/
+    icon_url: https://elastx.se/assets/logo-elastx__5b56d89da5da2cefc0037aba53644102.png
+    icon_background_color: dark
+    publisher: Elastx
+    description: Private managed Kubernetes service on Elastx cloud
+    license: Cloud
     tags:
       - cloud
       - managed
@@ -1114,8 +1080,7 @@ solutions:
     description: Managed Kubernetes service on Scaleway
     license: Cloud
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -1129,12 +1094,10 @@ solutions:
     url: https://www.scaleway.com/fr/kubernetes-kosmos/
     icon_url: https://www-uploads.scaleway.com/medium_Kubernetes_Kosmos_Illustration_Banner_f3a83046d6.webp
     publisher: Scaleway
-    description: Managed Kubernetes service for multi-cloud deployments (bring your
-      own nodes)
+    description: Managed Kubernetes service for multi-cloud deployments (bring your own nodes)
     license: Cloud
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -1169,8 +1132,22 @@ solutions:
     references:
       - title: Managing clusters with the Linode CLI
         language: en
-        url: https://notes.kodekloud.com/docs/Linode-Kubernetes-Engine/Working-with-Linode/Managing-clusters-with-the-Linode-CLI
+        url: >-
+          https://notes.kodekloud.com/docs/Linode-Kubernetes-Engine/Working-with-Linode/Managing-clusters-with-the-Linode-CLI
         type: article
+    tags:
+      - cloud
+      - managed
+    production_ready: true
+  - name: MetaKube
+    category: Managed
+    url: https://www.syseleven.de/en/
+    icon_url: >-
+      https://www.syseleven.de/wp-content/uploads/2026/01/secunet_syseleven_Logo_RGB_SchwarzRot_by-secunet_fuer-Website.png
+    icon_background_color: light
+    publisher: SysEleven
+    description: Managed Kubernetes service built on Kubermatic
+    license: Cloud
     tags:
       - cloud
       - managed
@@ -1188,18 +1165,6 @@ solutions:
       - managed
       - bare-metal
     production_ready: true
-  - name: MetaKube
-    category: Managed
-    url: https://www.syseleven.de/en/
-    icon_url: https://www.syseleven.de/wp-content/uploads/2026/01/secunet_syseleven_Logo_RGB_SchwarzRot_by-secunet_fuer-Website.png
-    icon_background_color: light
-    publisher: SysEleven
-    description: Managed Kubernetes service built on Kubermatic
-    license: Cloud
-    tags:
-      - cloud
-      - managed
-    production_ready: true
   - name: MKS
     category: Managed
     url: https://www.ovhcloud.com/fr/public-cloud/kubernetes/
@@ -1208,8 +1173,7 @@ solutions:
     description: Managed Kubernetes service on OVHcloud infrastructure
     license: Cloud
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -1222,28 +1186,16 @@ solutions:
       - cloud
       - managed
     production_ready: true
-  - name: Orka
-    category: Managed
-    url: https://www.macstadium.com/orka
-    icon_url: https://cdn.prod.website-files.com/687e650a56916806eaaf8f62/68c24991575cbc9ba4d212e6_Orka-Logo-WhiteBellyRegistered.svg
-    publisher: MacStadium
-    description: Kubernetes-based orchestration platform for macOS build infrastructure
-    license: Cloud
-    tags:
-      - cloud
-      - managed
-      - macos
-    production_ready: true
   - name: Oracle Cloud Infrastructure Container Engine for Kubernetes (OKE)
     category: Managed
     url: https://www.oracle.com/fr/cloud/cloud-native/container-engine-kubernetes/
-    icon_url: https://raw.githubusercontent.com/zwindler/101-ways-to-deploy-kubernetes/refs/heads/main/public/logos/oracle-logo.svg
+    icon_url: >-
+      https://raw.githubusercontent.com/zwindler/101-ways-to-deploy-kubernetes/refs/heads/main/public/logos/oracle-logo.svg
     publisher: Oracle Cloud Infrastructure
     description: Managed Kubernetes service on Oracle Cloud
     license: Cloud
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -1251,6 +1203,19 @@ solutions:
     tags:
       - cloud
       - managed
+    production_ready: true
+  - name: Orka
+    category: Managed
+    url: https://www.macstadium.com/orka
+    icon_url: >-
+      https://cdn.prod.website-files.com/687e650a56916806eaaf8f62/68c24991575cbc9ba4d212e6_Orka-Logo-WhiteBellyRegistered.svg
+    publisher: MacStadium
+    description: Kubernetes-based orchestration platform for macOS build infrastructure
+    license: Cloud
+    tags:
+      - cloud
+      - managed
+      - macos
     production_ready: true
   - name: Redhat Openshift cloud
     category: Managed
@@ -1281,8 +1246,7 @@ solutions:
     description: Managed Kubernetes service on Exoscale cloud
     license: Cloud
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -1376,13 +1340,11 @@ solutions:
     category: ManagementPlatform
     url: https://github.com/gardener/gardener
     icon_url: https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/gardener.svg
-    description: Multi-cloud Kubernetes management solution that manages thousands of
-      clusters
+    description: Multi-cloud Kubernetes management solution that manages thousands of clusters
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -1468,8 +1430,7 @@ solutions:
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -1485,14 +1446,12 @@ solutions:
     url: https://www.siderolabs.com/platform/saas-for-kubernetes/
     icon_url: https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/omni.svg
     publisher: SideroLabs
-    description: SaaS platform for managing Kubernetes clusters on any infrastructure
-      with Talos Linux
+    description: SaaS platform for managing Kubernetes clusters on any infrastructure with Talos Linux
     license: BUSL 1.1
     based_on:
       - Talos Linux
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -1511,8 +1470,7 @@ solutions:
     url: https://www.spectrocloud.com/product/palette/
     icon_url: https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/palette.svg
     publisher: Spectro Cloud
-    description: Kubernetes management platform for multi-cluster environments across
-      clouds
+    description: Kubernetes management platform for multi-cluster environments across clouds
     license: Proprietary
     open_source: false
     based_on:
@@ -1533,7 +1491,8 @@ solutions:
     references:
       - title: Get your First Container Up on Kubernetes Using Platform9 (HackerNoon)
         language: en
-        url: https://hackernoon.com/get-your-first-container-up-on-kubernetes-using-the-free-version-of-platform9-managed-kubernetes-p65u32u9
+        url: >-
+          https://hackernoon.com/get-your-first-container-up-on-kubernetes-using-the-free-version-of-platform9-managed-kubernetes-p65u32u9
         type: article
     tags:
       - multi-cluster
@@ -1571,13 +1530,11 @@ solutions:
     url: https://github.com/rancher/rancher
     icon_url: https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/rancher.svg
     publisher: Rancher
-    description: Complete container management platform with multi-cluster Kubernetes
-      orchestration
+    description: Complete container management platform with multi-cluster Kubernetes orchestration
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -1619,8 +1576,7 @@ solutions:
     url: https://github.com/vatesfr/xen-orchestra
     icon_url: https://docs.xen-orchestra.com/img/logo.png
     publisher: Vates
-    description: Multi-cloud virtualization management platform with Kubernetes deployment
-      recipes based on MicroK8s
+    description: Multi-cloud virtualization management platform with Kubernetes deployment recipes based on MicroK8s
     license: AGPL-3.0
     open_source: true
     based_on:
@@ -1630,8 +1586,7 @@ solutions:
         language: en
         url: https://docs.vates.tech/devops-tools/kubernetes/
         type: documentation
-        description: Official documentation for deploying Kubernetes clusters using Xen
-          Orchestra recipes
+        description: Official documentation for deploying Kubernetes clusters using Xen Orchestra recipes
       - title: 'VirtOps#6: create a Kubernetes cluster in minutes'
         language: en
         url: https://xen-orchestra.com/blog/virtops-6-create-a-kubernetes-cluster-in-minutes/
@@ -1643,37 +1598,6 @@ solutions:
       - virtualization
     production_ready: true
     stars: 900
-  - name: Using containers (manually)
-    category: Other
-    url: https://github.com/kubernetes/registry.k8s.io
-    icon_url: https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/kubernetes.svg
-    description: Manual Kubernetes setup running components as containers
-    license: Apache 2.0
-    open_source: true
-    tags:
-      - learning
-      - educational
-  - name: Using binaries (manually)
-    category: Other
-    url: https://github.com/kubernetes/kubernetes
-    icon_url: https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/kubernetes.svg
-    description: Manual Kubernetes installation using binary distributions
-    license: Apache 2.0
-    open_source: true
-    references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
-        language: fr
-        url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
-        type: book
-        description: Chapter 50 (By hand, using binaries)
-      - title: Démystifions Kubernetes
-        language: en
-        url: https://github.com/zwindler/demystifions-kubernetes/blob/main/README.md
-        type: article
-    tags:
-      - learning
-      - educational
   - name: Devops playgrounds
     category: Other
     url: https://labs.iximiuz.com/playgrounds
@@ -1681,52 +1605,9 @@ solutions:
     description: Interactive learning environments for practicing DevOps and Kubernetes
     license: Cloud
     references:
-      - title: 'Server-Side Playgrounds Reimagined: Build, Boot, and Network Your Own
-          VMs'
+      - title: 'Server-Side Playgrounds Reimagined: Build, Boot, and Network Your Own VMs'
         language: en
         url: https://iximiuz.com/en/posts/iximiuz-labs-playgrounds-2.0/
-        type: article
-    tags:
-      - learning
-      - educational
-  - name: The hard way (Kelsey hightower)
-    category: Other
-    url: https://github.com/kelseyhightower/kubernetes-the-hard-way
-    icon_url: https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/kubernetes.svg
-    description: Tutorial for manually setting up Kubernetes to understand each component
-    license: Apache 2.0
-    open_source: true
-    tags:
-      - learning
-      - educational
-    stars: 47300
-  - name: The hard way w/ Terraform (GCP)
-    category: Other
-    url: https://github.com/aidanSoles/kubernetes-the-hard-way-terraform
-    icon_url: https://avatars.githubusercontent.com/u/142061836?s=200&v=4
-    description: Automated Kubernetes The Hard Way deployment on GCP using Terraform
-      / Opentofu
-    license: Apache 2.0
-    open_source: true
-    based_on:
-      - Terraform / OpenTofu
-    tags:
-      - learning
-      - educational
-  - name: The hard way w/ Terraform (AWS)
-    category: Other
-    url: https://github.com/escarti/kubernetes-the-hard-way-tf-aws
-    icon_url: https://avatars.githubusercontent.com/u/142061836?s=200&v=4
-    description: Automated Kubernetes The Hard Way deployment on AWS using Terraform
-      / Opentofu
-    license: Apache 2.0
-    open_source: true
-    based_on:
-      - Terraform / OpenTofu
-    references:
-      - title: Kubernetes The Hard Way on AWS with Packer and Terraform
-        language: en
-        url: https://andygolubev.com/articles/kubernetes-the-hard-way-on-aws-with-packer-and-terraform/
         type: article
     tags:
       - learning
@@ -1739,8 +1620,7 @@ solutions:
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -1764,13 +1644,84 @@ solutions:
     tags:
       - learning
       - educational
+  - name: The hard way (Kelsey hightower)
+    category: Other
+    url: https://github.com/kelseyhightower/kubernetes-the-hard-way
+    icon_url: https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/kubernetes.svg
+    description: Tutorial for manually setting up Kubernetes to understand each component
+    license: Apache 2.0
+    open_source: true
+    tags:
+      - learning
+      - educational
+    stars: 47300
+  - name: The hard way w/ Terraform (AWS)
+    category: Other
+    url: https://github.com/escarti/kubernetes-the-hard-way-tf-aws
+    icon_url: https://avatars.githubusercontent.com/u/142061836?s=200&v=4
+    description: Automated Kubernetes The Hard Way deployment on AWS using Terraform / Opentofu
+    license: Apache 2.0
+    open_source: true
+    based_on:
+      - Terraform / OpenTofu
+    references:
+      - title: Kubernetes The Hard Way on AWS with Packer and Terraform
+        language: en
+        url: https://andygolubev.com/articles/kubernetes-the-hard-way-on-aws-with-packer-and-terraform/
+        type: article
+    tags:
+      - learning
+      - educational
+  - name: The hard way w/ Terraform (GCP)
+    category: Other
+    url: https://github.com/aidanSoles/kubernetes-the-hard-way-terraform
+    icon_url: https://avatars.githubusercontent.com/u/142061836?s=200&v=4
+    description: Automated Kubernetes The Hard Way deployment on GCP using Terraform / Opentofu
+    license: Apache 2.0
+    open_source: true
+    based_on:
+      - Terraform / OpenTofu
+    tags:
+      - learning
+      - educational
+  - name: Using binaries (manually)
+    category: Other
+    url: https://github.com/kubernetes/kubernetes
+    icon_url: https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/kubernetes.svg
+    description: Manual Kubernetes installation using binary distributions
+    license: Apache 2.0
+    open_source: true
+    references:
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
+        language: fr
+        url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
+        type: book
+        description: Chapter 50 (By hand, using binaries)
+      - title: Démystifions Kubernetes
+        language: en
+        url: https://github.com/zwindler/demystifions-kubernetes/blob/main/README.md
+        type: article
+    tags:
+      - learning
+      - educational
+  - name: Using containers (manually)
+    category: Other
+    url: https://github.com/kubernetes/registry.k8s.io
+    icon_url: https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/kubernetes.svg
+    description: Manual Kubernetes setup running components as containers
+    license: Apache 2.0
+    open_source: true
+    tags:
+      - learning
+      - educational
   - name: boot-to-talos
     category: Selfhosted
     url: https://github.com/cozystack/boot-to-talos
     icon_url: https://avatars.githubusercontent.com/u/202342215?s=200&v=4
     publisher: Cozystack
-    description: Converts any existing OS to Talos Linux completely from userspace,
-      without external dependencies except the Talos installer image
+    description: >-
+      Converts any existing OS to Talos Linux completely from userspace, without external dependencies except the Talos
+      installer image
     license: Apache 2.0
     open_source: true
     based_on:
@@ -1778,6 +1729,17 @@ solutions:
     tags:
       - self-hosted
       - bare-metal
+      - automation
+  - name: Charmed Kubernetes
+    category: Selfhosted
+    url: https://github.com/charmed-kubernetes
+    icon_url: https://avatars.githubusercontent.com/u/53057619?s=200&v=4
+    publisher: Canonical
+    description: Production-grade Kubernetes distribution by Canonical, deployed and managed using Juju charms
+    license: Apache 2.0
+    open_source: true
+    tags:
+      - self-hosted
       - automation
   - name: Constellation
     category: Selfhosted
@@ -1815,8 +1777,7 @@ solutions:
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -1833,7 +1794,8 @@ solutions:
   - name: Hepto
     category: Selfhosted
     url: https://forge.tedomum.net/acides/hepto
-    icon_url: https://raw.githubusercontent.com/zwindler/101-ways-to-deploy-kubernetes/refs/heads/main/public/logos/hepto-dark-bg.png
+    icon_url: >-
+      https://raw.githubusercontent.com/zwindler/101-ways-to-deploy-kubernetes/refs/heads/main/public/logos/hepto-dark-bg.png
     description: Lightweight Kubernetes distribution for edge and IoT deployments
     license: Apache 2.0
     open_source: true
@@ -1841,18 +1803,6 @@ solutions:
       - self-hosted
       - lightweight
       - edge
-  - name: Charmed Kubernetes
-    category: Selfhosted
-    url: https://github.com/charmed-kubernetes
-    icon_url: https://avatars.githubusercontent.com/u/53057619?s=200&v=4
-    publisher: Canonical
-    description: Production-grade Kubernetes distribution by Canonical, deployed and
-      managed using Juju charms
-    license: Apache 2.0
-    open_source: true
-    tags:
-      - self-hosted
-      - automation
   - name: k0s
     category: Selfhosted
     url: https://github.com/k0sproject/k0s
@@ -1862,8 +1812,7 @@ solutions:
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -1885,8 +1834,7 @@ solutions:
       - k0s
       - Cluster API
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -1900,13 +1848,11 @@ solutions:
     url: https://github.com/k3s-io/k3s
     icon_url: https://avatars.githubusercontent.com/u/49319725?s=200&v=4
     publisher: Rancher
-    description: Lightweight certified Kubernetes distribution designed for IoT and
-      edge computing
+    description: Lightweight certified Kubernetes distribution designed for IoT and edge computing
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -1931,8 +1877,7 @@ solutions:
     based_on:
       - k3s
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -1993,8 +1938,7 @@ solutions:
     based_on:
       - kubeadm
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -2012,14 +1956,12 @@ solutions:
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
         description: Chapter 19 (kubeadm w/ CLI)
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -2051,6 +1993,22 @@ solutions:
       - self-hosted
       - automation
     stars: 500
+  - name: kubeaver
+    category: Selfhosted
+    url: https://github.com/eb-k8s/kubeaver
+    icon_url: >-
+      https://raw.githubusercontent.com/eb-k8s/kubeaver/ffde08bb89b9dcdb558a5de86e04284f747793c7/docs/imgs/logo_without_k.svg
+    publisher: eb-k8s
+    description: Offline Kubernetes cluster deployment tool with a graphical user interface, based on Kubespray and Ansible
+    license: Apache 2.0
+    open_source: true
+    based_on:
+      - Kubespray
+    tags:
+      - self-hosted
+      - gui
+      - high-availability
+    production_ready: true
   - name: KubeKey
     category: Selfhosted
     url: https://github.com/kubesphere/kubekey
@@ -2064,8 +2022,7 @@ solutions:
       - kubeadm
       - k3s
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -2079,15 +2036,13 @@ solutions:
     category: Selfhosted
     url: https://github.com/Netcracker/KubeMarine
     icon_url: https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/kubernetes.svg
-    description: Kubernetes cluster deployment and management tool for bare-metal and
-      VMs
+    description: Kubernetes cluster deployment and management tool for bare-metal and VMs
     license: Apache 2.0
     open_source: true
     based_on:
       - kubeadm
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -2108,8 +2063,7 @@ solutions:
       - Kubeadm
       - ClusterAPI
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -2148,8 +2102,7 @@ solutions:
     based_on:
       - kubeadm
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -2164,15 +2117,13 @@ solutions:
     url: https://github.com/openstack/magnum
     icon_url: https://avatars.githubusercontent.com/u/324574?s=200&v=4
     publisher: OpenStack
-    description: OpenStack service for deploying and managing container orchestration
-      engines
+    description: OpenStack service for deploying and managing container orchestration engines
     license: Apache 2.0
     open_source: true
     based_on:
       - Cluster API
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -2215,8 +2166,7 @@ solutions:
     license: Apache 2.0
     open_source: true
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -2238,8 +2188,7 @@ solutions:
     based_on:
       - rke2
     references:
-      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters
-          de production
+      - title: Kubernetes - 50 solutions pour les postes de développement et les clusters de production
         language: fr
         url: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
         type: book
@@ -2265,11 +2214,11 @@ solutions:
   - name: RKE2
     category: Selfhosted
     url: https://github.com/rancher/rke2
-    icon_url: https://camo.githubusercontent.com/f851837d7a0298bf0c62820028221ba52dbe3fb00d97e37ebee465b31ed6edd9/68747470733a2f2f646f63732e726b65322e696f2f696d672f6c6f676f2d686f72697a6f6e74616c2d726b65322e737667
+    icon_url: >-
+      https://camo.githubusercontent.com/f851837d7a0298bf0c62820028221ba52dbe3fb00d97e37ebee465b31ed6edd9/68747470733a2f2f646f63732e726b65322e696f2f696d672f6c6f676f2d686f72697a6f6e74616c2d726b65322e737667
     icon_background_color: light
     publisher: Rancher
-    description: Kubernetes distribution focused on security and compliance for government
-      use
+    description: Kubernetes distribution focused on security and compliance for government use
     license: Apache 2.0
     open_source: true
     based_on:
@@ -2300,40 +2249,14 @@ solutions:
     tags:
       - self-hosted
       - secure
-  - name: TOPF
-    category: Selfhosted
-    url: https://github.com/postfinance/topf
-    icon_url: https://avatars.githubusercontent.com/u/34368733?s=200&v=4
-    publisher: PostFinance
-    description: Talos Orchestrator by PostFinance - manages Talos-based Kubernetes clusters, providing bootstrapping, reset, and configuration apply functionality
-    license: MIT
-    open_source: true
-    based_on:
-      - Talos Linux
-    tags:
-      - self-hosted
-      - automation
-    production_ready: true
-  - name: talos-bootstrap
-    category: Selfhosted
-    url: https://github.com/cozystack/talos-bootstrap
-    icon_url: https://avatars.githubusercontent.com/u/202342215?s=200&v=4
-    publisher: Cozystack
-    description: Interactive script for bootstrapping Kubernetes clusters on Talos OS
-    license: Apache 2.0
-    open_source: true
-    based_on:
-      - Talos Linux
-    tags:
-      - self-hosted
-      - automation
   - name: talhelper
     category: Selfhosted
     url: https://github.com/budimanjojo/talhelper
     icon_url: https://budimanjojo.github.io/talhelper/latest/img/logo.svg
     publisher: budimanjojo
-    description: CLI tool to help create Talos clusters in a GitOps way by generating
-      machine configs from a single YAML config file
+    description: >-
+      CLI tool to help create Talos clusters in a GitOps way by generating machine configs from a single YAML config
+      file
     license: BSD 3-Clause
     open_source: true
     based_on:
@@ -2356,6 +2279,19 @@ solutions:
     tags:
       - self-hosted
       - automation
+  - name: talos-bootstrap
+    category: Selfhosted
+    url: https://github.com/cozystack/talos-bootstrap
+    icon_url: https://avatars.githubusercontent.com/u/202342215?s=200&v=4
+    publisher: Cozystack
+    description: Interactive script for bootstrapping Kubernetes clusters on Talos OS
+    license: Apache 2.0
+    open_source: true
+    based_on:
+      - Talos Linux
+    tags:
+      - self-hosted
+      - automation
   - name: tarook
     category: Selfhosted
     url: https://gitlab.com/alasca.cloud/tarook/tarook
@@ -2368,18 +2304,19 @@ solutions:
     tags:
       - self-hosted
       - infrastructure-as-code
-  - name: kubeaver
+  - name: TOPF
     category: Selfhosted
-    url: https://github.com/eb-k8s/kubeaver
-    icon_url: https://raw.githubusercontent.com/eb-k8s/kubeaver/ffde08bb89b9dcdb558a5de86e04284f747793c7/docs/imgs/logo_without_k.svg
-    publisher: eb-k8s
-    description: Offline Kubernetes cluster deployment tool with a graphical user interface, based on Kubespray and Ansible
-    license: Apache 2.0
+    url: https://github.com/postfinance/topf
+    icon_url: https://avatars.githubusercontent.com/u/34368733?s=200&v=4
+    publisher: PostFinance
+    description: >-
+      Talos Orchestrator by PostFinance - manages Talos-based Kubernetes clusters, providing bootstrapping, reset, and
+      configuration apply functionality
+    license: MIT
     open_source: true
     based_on:
-      - Kubespray
+      - Talos Linux
     tags:
       - self-hosted
-      - gui
-      - high-availability
+      - automation
     production_ready: true

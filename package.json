@@ -12,6 +12,7 @@
     "check": "astro check",
     "preview": "astro preview",
     "validate": "node scripts/validate-solutions.mjs",
+    "sort": "node scripts/sort-solutions.mjs",
     "optimize-icons": "node scripts/optimize-icons.mjs",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
