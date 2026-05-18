@@ -815,6 +815,7 @@ solutions:
   - name: koob OS
     category: KubernetesOS
     url: https://github.com/koob-foo/koob-os
+    icon_url: https://avatars.githubusercontent.com/u/249196368?s=200&v=4
     description: Minimal, immutable Kubernetes OS built from scratch with a custom
       Go-based init system, UKI, and UEFI Secure Boot support
     license: Apache 2.0
