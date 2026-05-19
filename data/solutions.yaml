@@ -950,6 +950,16 @@ solutions:
     tags:
       - cloud
       - managed
+    references:
+      - title: Début de soirée avec Cilium et Clever
+        language: fr
+        url: https://blog.littlejo.link/cilium/clever/intro/
+        type: article
+      - title: Test de CKE, le Kubernetes managé chez Clever Cloud (partie 1)
+        language: fr
+        url: https://blog.zwindler.fr/2026/05/12/test-cke-kubernetes-manage-clever-cloud-partie-1/
+        type: article
+    production_ready: true
   - name: CoreWeave Kubernetes Service (CKS)
     category: Managed
     url: https://www.coreweave.com/products/coreweave-kubernetes-service
@@ -1826,6 +1836,8 @@ solutions:
       - self-hosted
     based_on:
       - k3s
+    production_ready: true
+    stars: 3500
   - name: k0s
     category: Selfhosted
     url: https://github.com/k0sproject/k0s
