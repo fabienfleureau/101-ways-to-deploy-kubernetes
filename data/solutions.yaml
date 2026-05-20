@@ -1534,6 +1534,36 @@ solutions:
       - enterprise
       - gui
     production_ready: true
+  - name: Qovery
+    category: ManagementPlatform
+    url: https://www.qovery.com/product/provision
+    icon_url: https://avatars.githubusercontent.com/u/55960755?s=200&v=4
+    publisher: Qovery
+    description: >-
+      Kubernetes management platform for provisioning and operating clusters
+      across AWS EKS, GCP GKE, Azure AKS, Scaleway, and bring-your-own clusters
+      with automated upgrades, fleet dashboard, and AI-assisted operations
+    license: GPL-3.0-only
+    open_source: true
+    cloud_providers:
+      - aws
+      - gcp
+      - azure
+      - scaleway
+    tags:
+      - multi-cluster
+      - enterprise
+      - multi-cloud
+    production_ready: true
+    references:
+      - title: Qovery Provision – Kubernetes Management Platform
+        language: en
+        url: https://www.qovery.com/product/provision
+        type: documentation
+      - title: Qovery Engine – GitHub Repository
+        language: en
+        url: https://github.com/Qovery/engine
+        type: documentation
   - name: Rafay
     category: ManagementPlatform
     url: https://rafay.co/
